@@ -1,6 +1,6 @@
 {
-  "short_name": "Hosted demo app",
-  "name": "Hosted demo app",
+  "short_name": "React Github Hosting",
+  "name": "Create React App Sample",
   "icons": [
     {
       "src": "favicon.ico",
